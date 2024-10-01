@@ -25,6 +25,7 @@ export default function RootLayout({ children }) {
       >
         {children}
       </body>
+      <p>HELLO WORLD</p>
     </html>
   );
 }
